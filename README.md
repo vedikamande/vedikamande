@@ -1,4 +1,4 @@
- Hi, I'm Vedika Mande! 👋
+ Hi, I'm Vedika Mande! 
 
 I'm currently pursuing my MCA and exploring the world of software development.
 
@@ -31,6 +31,6 @@ I enjoy learning new technologies and working on projects that help me improve m
 
 ### Connect with me
 
-- LinkedIn: Add your LinkedIn profile link
+- LinkedIn: www.linkedin.com/in/vedikamande14
 
 Thanks for visiting my profile! 😊
