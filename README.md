@@ -1,4 +1,4 @@
- Hi, I'm Vedika Mande! 
+Hi, I'm Vedika Mande! 
 
 I'm currently pursuing my MCA and exploring the world of software development.
 
@@ -29,7 +29,7 @@ I enjoy learning new technologies and working on projects that help me improve m
 - **TaskFlow** – A simple application to manage daily tasks.
 - **ExpenseEase** – An application to track personal expenses.
 
-### Connect with me
+# Connect with me
 
 - LinkedIn: www.linkedin.com/in/vedikamande14
 
