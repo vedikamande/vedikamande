@@ -1,7 +1,9 @@
 About me:
 
 name: Vedika Mande
+
 location: Pune, Maharashtra, India
+
 education:
   - BCS at MGM University (2022-2025)
   - MCA at Vishwakarma University (2025-2027, Pursuing)
