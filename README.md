@@ -1,19 +1,19 @@
-Hi, I'm Vedika Mande! 
-
-I'm currently pursuing my MCA and exploring the world of software development.
+About me:
+name: Vedika Mande
+location: Pune, Maharashtra, India
+education:
+  - BCS at MGM University (2022-2025)
+  - MCA at Vishwakarma University (2025-2027, Pursuing)
+contact: vedikamande14@gmail.com
+portfolio: shantanu.pages.dev
 
 I enjoy learning new technologies and working on projects that help me improve my practical skills.
-
-### A little about me
-
-- 🎓 MCA Student
 - 💻 Interested in Web Development
 - 🌱 Currently learning Python, React and Flask
 - ☁️ Exploring AWS and Cloud Computing
 - 🚀 Working on personal projects to improve my skills
 
- Technologies I'm learning
-
+# Technologies I'm learning
 - Python
 - HTML & CSS
 - JavaScript
@@ -23,7 +23,7 @@ I enjoy learning new technologies and working on projects that help me improve m
 - Git & GitHub
 - AWS
 
-### My Projects
+# My Projects
 
 - **LifeSync** – A personal dashboard to manage daily tasks, goals and habits.
 - **TaskFlow** – A simple application to manage daily tasks.
