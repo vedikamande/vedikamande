@@ -7,6 +7,7 @@ location: Pune, Maharashtra, India
 education:
   - BCS at MGM University (2022-2025)
   - MCA at Vishwakarma University (2025-2027, Pursuing)
+  - 
 contact: vedikamande14@gmail.com
 
 I enjoy learning new technologies and working on projects that help me improve my practical skills.
